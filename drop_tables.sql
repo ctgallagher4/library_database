@@ -1,0 +1,25 @@
+DROP TABLE IF EXISTS user;
+
+DROP TABLE IF EXISTS wanted_book_list;
+
+DROP TABLE IF EXISTS follows;
+
+DROP TABLE IF EXISTS book_wanted;
+
+DROP TABLE IF EXISTS book;
+
+DROP TABLE IF EXISTS publisher;
+
+DROP TABLE IF EXISTS lends_history;
+
+DROP TABLE IF EXISTS book_reviews;
+
+DROP TABLE IF EXISTS alumni_donors;
+
+DROP TABLE IF EXISTS donated;
+
+DROP TABLE IF EXISTS user_logs;
+
+
+
+
